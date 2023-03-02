@@ -1,0 +1,1 @@
+This is sameple text file for git commit 
